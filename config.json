@@ -1,270 +1,2188 @@
 {
-  "Mockups": [
+  "Ruzicky": [
     {
-      "height": 2020,
-      "compressed_path": "./photos/Mockups/Desktop.min.png",
-      "width": 1440,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9781.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9781.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png",
-      "path": "./photos/Mockups/Desktop.png"
+      "placeholder_path": "./photos/Ruzicky/IMG_9781.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/curriculum.min.png",
-      "width": 1440,
+      "width": 3024,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9554.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9554.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png",
-      "path": "./photos/Mockups/curriculum.png"
+      "placeholder_path": "./photos/Ruzicky/IMG_9554.placeholder.jpg"
     },
     {
-      "height": 1000,
-      "compressed_path": "./photos/Mockups/Frame.min.png",
-      "width": 1000,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9540.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9540.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/Frame.placeholder.png",
-      "path": "./photos/Mockups/Frame.png"
+      "placeholder_path": "./photos/Ruzicky/IMG_9540.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/glossary.min.png",
-      "width": 1440,
+      "width": 3024,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9568.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9568.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/glossary.placeholder.png",
-      "path": "./photos/Mockups/glossary.png"
+      "placeholder_path": "./photos/Ruzicky/IMG_9568.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/photoframe.min.png",
-      "width": 1440,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9839.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9839.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/photoframe.placeholder.png",
-      "path": "./photos/Mockups/photoframe.png"
-    }
-  ],
-  "Travel Photography": [
-    {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0219.min.jpg",
-      "width": 3578,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0219.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0219.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9839.placeholder.jpg"
     },
     {
-      "height": 3265,
-      "compressed_path": "./photos/Travel Photography/DSCF1502.min.jpg",
-      "width": 4898,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9838.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9838.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1502.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1502.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9838.placeholder.jpg"
     },
     {
-      "height": 2940,
-      "compressed_path": "./photos/Travel Photography/IMG_9966.min.jpg",
-      "width": 2205,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9569.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9569.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9966.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9966.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9569.placeholder.jpg"
     },
     {
-      "height": 4422,
-      "compressed_path": "./photos/Travel Photography/DSCF7399.min.jpg",
-      "width": 3538,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9541.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9541.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7399.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7399.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9541.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8091.min.jpg",
-      "width": 3265,
+      "width": 3024,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9555.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9555.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8091.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8091.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9555.placeholder.jpg"
     },
     {
-      "height": 4080,
-      "compressed_path": "./photos/Travel Photography/DSCF4244.min.jpg",
-      "width": 3264,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9780.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9780.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4244.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4244.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9780.placeholder.jpg"
     },
     {
-      "height": 3151,
-      "compressed_path": "./photos/Travel Photography/DSCF1894.min.jpg",
-      "width": 2363,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9782.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9782.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1894.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1894.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9782.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8053.min.jpg",
-      "width": 3265,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9741.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9741.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8053.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8053.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9741.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8196.min.jpg",
-      "width": 3265,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9543.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9543.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8196.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8196.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9543.placeholder.jpg"
     },
     {
-      "height": 3808,
-      "compressed_path": "./photos/Travel Photography/DSCF2242.min.jpg",
-      "width": 2856,
+      "width": 3024,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9557.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9557.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF2242.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF2242.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9557.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF0989(1).min.jpg",
-      "width": 3265,
+      "width": 3024,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9556.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9556.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0989(1).placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0989(1).jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9556.placeholder.jpg"
     },
     {
-      "height": 4062,
-      "compressed_path": "./photos/Travel Photography/DSCF8958.min.jpg",
-      "width": 3250,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9542.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9542.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8958.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8958.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9542.placeholder.jpg"
     },
     {
-      "height": 4415,
-      "compressed_path": "./photos/Travel Photography/IMG_0072.min.jpg",
-      "width": 3311,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9740.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9740.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_0072.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_0072.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9740.placeholder.jpg"
     },
     {
-      "height": 4899,
-      "compressed_path": "./photos/Travel Photography/DSCF0860.min.jpg",
-      "width": 3266,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9783.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9783.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0860.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0860.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9783.placeholder.jpg"
     },
     {
-      "height": 3388,
-      "compressed_path": "./photos/Travel Photography/IMG_9863.min.jpg",
-      "width": 2541,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9787.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9787.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9863.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9863.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9787.placeholder.jpg"
     },
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0138.min.jpg",
-      "width": 3578,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9778.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9778.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0138.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0138.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9778.placeholder.jpg"
     },
     {
-      "height": 4149,
-      "compressed_path": "./photos/Travel Photography/20160406-20160505DSCF2086.min.jpg",
-      "width": 3112,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9546.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9546.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/20160406-20160505DSCF2086.placeholder.jpg",
-      "path": "./photos/Travel Photography/20160406-20160505DSCF2086.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9546.placeholder.jpg"
     },
     {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF1802.min.jpg",
-      "width": 3264,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9552.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9552.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1802.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1802.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9552.placeholder.jpg"
     },
     {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF3621.min.jpg",
-      "width": 3264,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9553.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9553.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF3621.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF3621.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9553.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8993.min.jpg",
-      "width": 3265,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9547.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9547.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8993.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8993.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9547.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8103.min.jpg",
-      "width": 3265,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9779.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9779.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8103.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8103.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9779.placeholder.jpg"
     },
     {
-      "height": 3943,
-      "compressed_path": "./photos/Travel Photography/DSCF5784.min.jpg",
-      "width": 3154,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9786.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9786.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5784.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5784.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9786.placeholder.jpg"
     },
     {
-      "height": 3264,
-      "compressed_path": "./photos/Travel Photography/DSCF4538.min.jpg",
-      "width": 2611,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9790.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9790.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4538.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4538.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9790.placeholder.jpg"
     },
     {
-      "height": 3000,
-      "compressed_path": "./photos/Travel Photography/DSCF1252.min.jpg",
-      "width": 5332,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9784.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9784.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1252.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1252.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9784.placeholder.jpg"
     },
     {
-      "height": 3962,
-      "compressed_path": "./photos/Travel Photography/DSCF5636.min.jpg",
-      "width": 3170,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9551.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9551.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5636.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5636.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9551.placeholder.jpg"
     },
     {
-      "height": 2848,
-      "compressed_path": "./photos/Travel Photography/IMG_7575.min.jpg",
-      "width": 3797,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9545.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9545.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_7575.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_7575.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9545.placeholder.jpg"
     },
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF8846.min.jpg",
-      "width": 3578,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9544.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9544.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8846.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8846.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9544.placeholder.jpg"
     },
     {
-      "height": 3399,
-      "compressed_path": "./photos/Travel Photography/DSCF7355.min.jpg",
-      "width": 2719,
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9550.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9550.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7355.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7355.jpg"
+      "placeholder_path": "./photos/Ruzicky/IMG_9550.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9785.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9785.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9785.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9912.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9912.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9912.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9906.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9906.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9906.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9721.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9721.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9721.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9709.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9709.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9709.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9537.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9537.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9537.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9523.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9523.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9523.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9480.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9480.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9480.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9494.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9494.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9494.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9457.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9457.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9457.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9696.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9696.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9696.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9866.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9866.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9866.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9872.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9872.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9872.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9899.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9899.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9899.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9898.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9898.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9898.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9873.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9873.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9873.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9867.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9867.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9867.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9683.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9683.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9683.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9456.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9456.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9456.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9495.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9495.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9495.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9481.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9481.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9481.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9522.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9522.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9522.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9536.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9536.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9536.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9708.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9708.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9708.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9720.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9720.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9720.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9907.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9907.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9907.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9913.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9913.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9913.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9905.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9905.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9905.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9911.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9911.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9911.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9722.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9722.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9722.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9520.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9520.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9520.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9534.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9534.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9534.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9508.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9508.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9508.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9497.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9497.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9497.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9483.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9483.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9483.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9454.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9454.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9454.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9468.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9468.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9468.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9695.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9695.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9695.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9859.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9859.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9859.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9871.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9871.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9871.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9865.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9865.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9865.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9864.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9864.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9864.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9870.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9870.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9870.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9858.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9858.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9858.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9694.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9694.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9694.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9469.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9469.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9469.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9455.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9455.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9455.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9482.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9482.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9482.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9496.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9496.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9496.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9509.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9509.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9509.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9535.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9535.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9535.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9521.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9521.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9521.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9723.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9723.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9723.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9910.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9910.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9910.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9904.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9904.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9904.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9900.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9900.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9900.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9914.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9914.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9914.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9928.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9928.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9928.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9519.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9519.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9519.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9525.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9525.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9525.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9531.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9531.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9531.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9492.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9492.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9492.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9486.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9486.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9486.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9479.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9479.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9479.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9874.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9874.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9874.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9860.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9860.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9860.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9848.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9848.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9848.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9690.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9690.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9690.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9684.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9684.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9684.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9653.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9653.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9653.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9652.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9652.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9652.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9685.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9685.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9685.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9691.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9691.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9691.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9849.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9849.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9849.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9861.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9861.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9861.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9875.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9875.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9875.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9478.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9478.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9478.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9487.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9487.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9487.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9493.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9493.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9493.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9530.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9530.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9530.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9524.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9524.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9524.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9518.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9518.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9518.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9929.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9929.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9929.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9915.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9915.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9915.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9901.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9901.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9901.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9917.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9917.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9917.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9903.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9903.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9903.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9718.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9718.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9718.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9532.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9532.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9532.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9526.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9526.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9526.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9485.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9485.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9485.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9491.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9491.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9491.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9863.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9863.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9863.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9877.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9877.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9877.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9687.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9687.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9687.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9693.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9693.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9693.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9650.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9650.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9650.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9888.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9888.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9888.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9889.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9889.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9889.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9651.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9651.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9651.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9692.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9692.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9692.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9686.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9686.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9686.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9876.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9876.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9876.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9862.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9862.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9862.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9490.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9490.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9490.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9484.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9484.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9484.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9527.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9527.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9527.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9533.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9533.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9533.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9719.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9719.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9719.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9902.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9902.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9902.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9916.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9916.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9916.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9927.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9927.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9927.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9714.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9714.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9714.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9516.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9516.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9516.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9502.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9502.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9502.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9489.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9489.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9489.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9462.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9462.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9462.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9476.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9476.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9476.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9847.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9847.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9847.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9853.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9853.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9853.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9884.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9884.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9884.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9648.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9648.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9648.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9890.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9890.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9890.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9891.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9891.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9891.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9885.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9885.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9885.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9852.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9852.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9852.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9846.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9846.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9846.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9477.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9477.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9477.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9463.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9463.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9463.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9488.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9488.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9488.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9503.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9503.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9503.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9517.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9517.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9517.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9715.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9715.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9715.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9926.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9926.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9926.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9918.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9918.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9918.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9924.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9924.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9924.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9930.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9930.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9930.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9717.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9717.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9717.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9501.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9501.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9501.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9515.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9515.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9515.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9529.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9529.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9529.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9475.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9475.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9475.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9461.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9461.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9461.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9878.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9878.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9878.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9850.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9850.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9850.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9688.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9688.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9688.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9844.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9844.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9844.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9893.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9893.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9893.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9887.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9887.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9887.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9886.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9886.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9886.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9892.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9892.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9892.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9845.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9845.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9845.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9689.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9689.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9689.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9851.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9851.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9851.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9879.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9879.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9879.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9460.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9460.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9460.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9474.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9474.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9474.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9528.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9528.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9528.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9514.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9514.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9514.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9500.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9500.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9500.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9716.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9716.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9716.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9925.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9925.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9925.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9919.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9919.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9919.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9921.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9921.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9921.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9909.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9909.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9909.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9712.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9712.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9712.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9538.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9538.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9538.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9504.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9504.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9504.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9510.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9510.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9510.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9458.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9458.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9458.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9470.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9470.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9470.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9464.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9464.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9464.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9855.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9855.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9855.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9841.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9841.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9841.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9869.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9869.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9869.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9896.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9896.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9896.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9882.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9882.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9882.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9883.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9883.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9883.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9897.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9897.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9897.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9868.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9868.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9868.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9840.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9840.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9840.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9854.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9854.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9854.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9465.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9465.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9465.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9471.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9471.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9471.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9459.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9459.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9459.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9511.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9511.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9511.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9505.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9505.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9505.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9539.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9539.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9539.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9713.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9713.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9713.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9707.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9707.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9707.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9908.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9908.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9908.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9920.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9920.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9920.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9922.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9922.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9922.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9711.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9711.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9711.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9513.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9513.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9513.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9507.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9507.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9507.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9498.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9498.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9498.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9467.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9467.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9467.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9473.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9473.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9473.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9842.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9842.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9842.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9856.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9856.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9856.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9881.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9881.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9881.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9895.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9895.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9895.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9894.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9894.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9894.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9880.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9880.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9880.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9857.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9857.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9857.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9843.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9843.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9843.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9472.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9472.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9472.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9466.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9466.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9466.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9499.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9499.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9499.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9506.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9506.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9506.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9512.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9512.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9512.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9710.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9710.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9710.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9923.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9923.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9923.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9788.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9788.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9788.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9777.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9777.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9777.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9763.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9763.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9763.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9561.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9561.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9561.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9549.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9549.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9549.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9560.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9560.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9560.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9776.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9776.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9776.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9789.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9789.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9789.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9774.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9774.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9774.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9562.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9562.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9562.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9563.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9563.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9563.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9775.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9775.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9775.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9765.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9765.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9765.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9771.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9771.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9771.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9567.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9567.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9567.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9566.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9566.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9566.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9770.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9770.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9770.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9764.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9764.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9764.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9943.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9943.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9943.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9941.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9941.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9941.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9772.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9772.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9772.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9766.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9766.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9766.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9558.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9558.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9558.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9564.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9564.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9564.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9565.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9565.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9565.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 3024,
+      "path": "./photos/Ruzicky/IMG_9559.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9559.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9559.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Ruzicky/IMG_9773.jpg",
+      "compressed_path": "./photos/Ruzicky/IMG_9773.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Ruzicky/IMG_9773.placeholder.jpg"
     }
   ]
 }
